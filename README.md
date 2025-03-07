@@ -9,8 +9,8 @@ This project is part of the Recommendation System course and presents a hybrid s
 Modern recommendation systems require balancing efficiency with the ability to capture both short-term and long-term user behaviors. Traditional Transformer-based models, while powerful, suffer from quadratic complexity which limits their scalability. This project, developed as part of a Recommendation System course, addresses these challenges by:
 
 - **Integrating LinRec and FMLP-Rec:**
-  - **LinRec** efficiently models global dependencies via a linearized attention mechanism.
-  - **FMLP-Rec** leverages frequency-domain filtering to extract periodic patterns and reduce noise.
+  - **LinRec** efficiently models global dependencies via a linearized attention mechanism.  [LinRec Repository](https://github.com/Applied-Machine-Learning-Lab/LinRec)
+  - **FMLP-Rec** leverages frequency-domain filtering to extract periodic patterns and reduce noise.  [FMLP Repository](https://github.com/Woeee/FMLP-Rec/)
   
 - **Adaptive Gating Mechanism:**
   - A lightweight neural network computes a dynamic weighting parameter based on statistical sequence-based features.
