@@ -1,4 +1,4 @@
-# Improving Sequential Recommendation with Hybrid Attention Weighting
+# Improving Sequential Recommendation with Hybrid Weighting
 
 This project is part of the Recommendation System course and presents a hybrid sequential recommendation model that combines two state-of-the-art approaches—**LinRec** (a linear attention mechanism) and **FMLP-Rec** (an MLP-based model with frequency-domain filtering). By integrating these techniques with an adaptive gating mechanism, the model achieves near-linear runtime while effectively capturing long-term dependencies and mitigating noise in user interaction sequences.
 
