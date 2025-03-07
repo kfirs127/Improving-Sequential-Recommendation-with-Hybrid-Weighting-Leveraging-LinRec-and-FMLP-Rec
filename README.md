@@ -53,6 +53,6 @@ The hybrid model is evaluated on benchmark datasets, including Amazon Beauty and
 - **Normalized Discounted Cumulative Gain (NDCG)**
 
 Experimental results demonstrate that the hybrid model:
-- Exceeds the performance of standalone LinRec and FMLP-Rec models over the ML1M dataset .
-- Exceeds the performance of standalone LinRec and Match the preformence of FMLP-Rec models over the Beauty dataset .
+- Exceeds the performance of standalone LinRec and FMLP-Rec models on the ML1M dataset .
+- Exceeds the performance of standalone LinRec and matches the performance of FMLP-Rec on the Beauty dataset .
 
